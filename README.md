@@ -1,6 +1,5 @@
 # MobileRobot-Openloopcontrol
 ## Aim:
-
 To develop a python control code to move the mobilerobot along the predefined path.
 
 ## Equipments Required:
@@ -8,7 +7,6 @@ To develop a python control code to move the mobilerobot along the predefined pa
 2. Python 3.7
 
 ## Procedure
-
 Step1:
 <br/>Start the program.
 
@@ -120,7 +118,7 @@ if _name_ == '_main_':
 
 ## MobileRobot Movement Video:
 
-<br/>https://youtu.be/LvuPG4bqjVA
+<br/>https://youtu.be/zDDCMvcFU3k?si=_8s1JOWlvq1RSyGA
 <br/>
 <br/>
 <br/>
